@@ -1,6 +1,6 @@
 # Laravel Nuxt spa created by cretueusebiu
 
-## Check main repository: https://github.com/cretueusebiu/laravel-nuxt
+- Check main repository: https://github.com/cretueusebiu/laravel-nuxt
 
 # Seperated project to client and api
 
