@@ -4,5 +4,5 @@
 
 # Seperated project to client and api
 
-# Frontend client - https://github.com/viktorasbuivydas/laravel-nuxt-frontend-cretueusebiu
-# Backend laravel api - https://github.com/viktorasbuivydas/laravel-nuxt-backend-cretueusebiu 
+- Frontend client - https://github.com/viktorasbuivydas/laravel-nuxt-frontend-cretueusebiu
+- Backend laravel api - https://github.com/viktorasbuivydas/laravel-nuxt-backend-cretueusebiu 
